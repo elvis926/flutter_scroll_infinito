@@ -1,16 +1,8 @@
 # flutter_scroll_infinito
 
-A new Flutter project.
+Realizar una aplicacion añadiendo un scroll infinito la pagina sera llenada con el generador de palabras aleatorias 
+<br>
+En la imagen se muestra una muestra de la funcionalidad del programa con el scroll infinito.
+<br>
+![imagen](https://user-images.githubusercontent.com/55716749/129824073-c1ea235a-3819-4411-8881-a674187a8b6d.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
